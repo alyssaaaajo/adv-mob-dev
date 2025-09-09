@@ -5,13 +5,13 @@ import { View, Text, FlatList, Image, StyleSheet } from 'react-native';
 const playlists = [
   {
     id: '1',
-    title: 'Chill Vibes',
-    cover: require('@/assets/images/logo.png'), // local image
+    title: 'Love Poem',
+    cover: require('@/assets/images/iuLovePoem.png'), // local image
   },
   {
     id: '2',
     title: 'Workout Mix',
-    cover: require('@/assets/images/download (2).png'),
+    cover: require('@/assets/images/workOutPic).png'),
   },
   {
     id: '3',
