@@ -13,7 +13,7 @@ profile
 ![Profile](https://github.com/user-attachments/assets/033566e9-5380-4fad-8757-fd13cf9635ee)
 
 Playlisttt
-![PLaylist](https://github.com/user-attachments/assets/3280d11d-6426-47d9-a7b5-b2733dd23b40)
+<img width="921" height="2048" alt="PLaylist" src="https://github.com/user-attachments/assets/4d869436-2a17-4769-8359-732f1d512032" />
 
 togglee
 ![toggle](https://github.com/user-attachments/assets/43ee37da-dd87-42a0-9a4c-c987183bbdeb)
