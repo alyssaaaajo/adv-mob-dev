@@ -1,5 +1,6 @@
 GOOD DAYY!! BELOW ARE MY ACTIVIES
-🎵 Spotify-Inspired Android App
+
+<h1>🎵 Spotify-Inspired Android App</h1>
 An Android project that replicates Spotify’s UI and core flows such as login, signup, profile, playlists, categories, and dark mode toggle.
 ___________________________________________________________________________________________________________________
 ACTIVITY 1 & 2
