@@ -1,9 +1,12 @@
 GOOD DAYY!! BELOW ARE MY ACTIVIES
+<h1></h1>
 
 <h1>🎵 Spotify-Inspired Android App</h1>
 An Android project that replicates Spotify’s UI and core flows such as login, signup, profile, playlists, categories, and dark mode toggle.
-___________________________________________________________________________________________________________________
-ACTIVITY 1 & 2
+
+<h1>ACTIVITY 1 & 2</h1>
+Login	Signup
+<img width="250" src="https://github.com/user-attachments/assets/b0fcf08f-6575-4959-aa38-f9ade5a5d97b" />	<img width="250" src="https://github.com/user-attachments/assets/e82d5f74-d801-4bda-9f9e-f39d13fa381d" />
 ![beforeClicking](https://github.com/user-attachments/assets/5fc8a3db-941a-4d1e-8e9a-db84e4fa84fd)
 ![afterClicking](https://github.com/user-attachments/assets/845e6d05-3817-4a67-820d-9eba8d9c8e2b)
 
