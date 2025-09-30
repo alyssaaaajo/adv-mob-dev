@@ -19,7 +19,9 @@ beforeClicking <img width="236" height="529" alt="image" src="https://github.com
 <img width="354" height="731" alt="image" src="https://github.com/user-attachments/assets/4c69c0a6-d412-40f8-9bae-7b1c27d2b76b" />
 
 <h2>Playlisttt</h2>
-<img width="348" height="728" alt="image" src="https://github.com/user-attachments/assets/8b04020b-45da-43d8-b2fb-9196e4ed12d7" />
+<h1>When playlist is clicked/pressed, you can add and remove songs. TIP: You can remove songs just by swiping to the left!</h1>
+<img width="348" height="728" alt="image" src="https://github.com/user-attachments/assets/8b04020b-45da-43d8-b2fb-9196e4ed12d7" /> <img width="386" height="711" alt="image" src="https://github.com/user-attachments/assets/76c4f5ef-8175-4a32-9609-ed31b376f510" />
+
 
 <h2>toggle | Settings</h2>
 <img width="351" height="730" alt="image" src="https://github.com/user-attachments/assets/71aae800-74d9-426d-8a20-38df03fdbabb" />
