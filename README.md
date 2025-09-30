@@ -47,6 +47,11 @@ categories?
 <h3>NEW SAVED PROFILE PHOTO</h3>
 <img width="357" height="726" alt="image" src="https://github.com/user-attachments/assets/1137b59d-09ee-4079-8576-142e509260f6" />
 
+<h1>WEEK 6: ACTIVITY 1</h1>
+<h2>Running app on ios! Success!</h2>
+<img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/df770f8b-9772-4530-abdc-98f74d046755" /> <img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/eba0d8d9-5a07-406d-9ecb-8a74ec4324b8" />
+
+
 
 
 
