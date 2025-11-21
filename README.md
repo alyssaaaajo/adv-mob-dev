@@ -71,8 +71,7 @@ categories?
 
 
 
-
---------------------------------------------That is all! Thank you so muchhh <3 I had fun making this yey---------------------------------------------
+-----------------That is all! Thank you so muchhh <3 I had fun making this yey------------------
 
 
 
