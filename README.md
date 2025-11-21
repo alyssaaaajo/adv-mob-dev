@@ -20,7 +20,7 @@ beforeClicking <img width="236" height="529" alt="image" src="https://github.com
 
 <h2>Playlisttt</h2>
 <h1>When playlist is clicked/pressed, you can add and remove songs. TIP: You can remove songs just by swiping to the left!</h1>
-<img width="348" height="728" alt="image" src="https://github.com/user-attachments/assets/8b04020b-45da-43d8-b2fb-9196e4ed12d7" /> <img width="386" height="711" alt="image" src="https://github.com/user-attachments/assets/76c4f5ef-8175-4a32-9609-ed31b376f510" />
+<img width="387" height="797" alt="image" src="https://github.com/user-attachments/assets/a1c5317a-7c9a-46b4-a731-39b24ca62ab2" /> <img width="386" height="711" alt="image" src="https://github.com/user-attachments/assets/76c4f5ef-8175-4a32-9609-ed31b376f510" />
 
 
 <h2>toggle | Settings</h2>
@@ -36,7 +36,9 @@ categories?
 
 <h1>September 23, 2025 [WEEK 5] - Change Themes (Dark/Light Mode)</h1>
 <h3>This activity lets users switch between dark and light themes. The chosen theme is saved, so it stays the same even after closing and reopening the app, and it is applied across all screens. NOTE: Screens are made originally/initially in dark mode hehe</h3>
-<img width="358" height="727" alt="image" src="https://github.com/user-attachments/assets/6ee85e44-62e2-4938-bc0e-40eba554d47f" /> <img width="357" height="728" alt="image" src="https://github.com/user-attachments/assets/af52e489-1894-42c1-a513-10c2d2925bdf" /> <img width="350" height="181" alt="image" src="https://github.com/user-attachments/assets/5dfe621d-a051-4304-8bb6-2c924e841e04" /> <img width="357" height="726" alt="image" src="https://github.com/user-attachments/assets/1e02de35-af34-4260-919a-eca57b21bf2d" />
+<img width="358" height="727" alt="image" src="https://github.com/user-attachments/assets/6ee85e44-62e2-4938-bc0e-40eba554d47f" /> <img width="357" height="728" alt="image" src="https://github.com/user-attachments/assets/af52e489-1894-42c1-a513-10c2d2925bdf" /> 
+<img width="387" height="797" alt="image" src="https://github.com/user-attachments/assets/c452fc3f-d2d5-45b4-b10d-044b9f432bf3" /> <img width="393" height="798" alt="image" src="https://github.com/user-attachments/assets/30c0efea-00c3-46a7-8f6f-525e76bc9cbc" />
+
 <h3>The app uses a dynamic theming system powered by React Navigation’s useTheme() hook and Redux to manage light and dark modes. All screens such as Profile, Playlist, and Playlist Detail automatically update their backgrounds, text, buttons, and borders based on the active theme. With the theme stored globally, any change instantly applies throughout the entire app. This setup ensures a cohesive user experience and makes it simple to introduce additional custom themes later on.</h3>
 
 
