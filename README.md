@@ -47,9 +47,29 @@ categories?
 <h3>NEW SAVED PROFILE PHOTO</h3>
 <img width="357" height="726" alt="image" src="https://github.com/user-attachments/assets/1137b59d-09ee-4079-8576-142e509260f6" />
 
+<h1>Access camera using my phone</h1>
+<img width="286" height="638" alt="image" src="https://github.com/user-attachments/assets/7dcde8c7-2b3c-4a7f-9aa0-4cdd02e54817" />
+
+<h2>---with filters and tools (rotate and crop)</h2>
+<img width="289" height="637" alt="image" src="https://github.com/user-attachments/assets/c0b5cb66-241d-49f4-be6d-fcc795ba8047" /> <img width="291" height="654" alt="image" src="https://github.com/user-attachments/assets/101fc3f3-1b56-47b2-a9bf-16d932adf7f3" />
+
 <h1>WEEK 6: ACTIVITY 1</h1>
 <h2>Running app on ios! Success!</h2>
 <img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/df770f8b-9772-4530-abdc-98f74d046755" /> <img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/eba0d8d9-5a07-406d-9ecb-8a74ec4324b8" />
+
+<h1>MAP FEATUREEE</h1>
+<img width="384" height="802" alt="image" src="https://github.com/user-attachments/assets/f0161c60-d851-4d6c-bbf4-aaadeafc88ce" /> <img width="393" height="804" alt="image" src="https://github.com/user-attachments/assets/887c8500-4f10-4f41-8728-2828dc9e1c27" />
+<img width="392" height="798" alt="image" src="https://github.com/user-attachments/assets/ce26caab-5726-4236-b02c-6becea06bbc2" /> <img width="391" height="802" alt="image" src="https://github.com/user-attachments/assets/b29ed9ff-0b7c-4b84-84b3-51530bcb8a84" />
+<img width="390" height="796" alt="image" src="https://github.com/user-attachments/assets/4c0fd1fc-bca9-4900-b983-ab43a98233fb" /> <img width="396" height="803" alt="image" src="https://github.com/user-attachments/assets/4cc87416-e637-4f42-a533-45f8c3cf40dc" />
+
+<H3>The map features allow users to view their current location, search for specific places, and interact with markers for additional information. The implementation also includes smooth zooming and panning for better navigation. One of the main challenges faced was handling location permissions and ensuring accurate real-time positioning. Integrating the map API and managing asynchronous loading also required careful debugging to avoid crashes or blank map displays.</H3>
+
+
+
+
+
+--------------------------------------------That is all! Thank you so muchhh <3 I had fun making this yey---------------------------------------------
+
 
 
 
