@@ -11,7 +11,7 @@ beforeClicking <img width="236" height="529" alt="image" src="https://github.com
 
 
 <h1>SPOTIFY LOGIN AND SIGNUP ACTIVITY</h1>
-<img width="1080" height="2400" alt="SpotifyLogin" src="https://github.com/user-attachments/assets/b0fcf08f-6575-4959-aa38-f9ade5a5d97b" />  <img width="1080" height="2400" alt="SpotifySignUp" src="https://github.com/user-attachments/assets/e82d5f74-d801-4bda-9f9e-f39d13fa381d" />
+<img width="1080" height="2400" alt="SpotifyLogin" src="https://github.com/user-attachments/assets/b0fcf08f-6575-4959-aa38-f9ade5a5d97b" /> <img width="1080" height="2400" alt="SpotifySignUp" src="https://github.com/user-attachments/assets/e82d5f74-d801-4bda-9f9e-f39d13fa381d" />
 
 
 <h1>SPOTIFY UPDATE ACTIVITY [September 4, 2025]</h1>
