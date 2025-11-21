@@ -59,7 +59,7 @@ categories?
 
 <h1>WEEK 6: ACTIVITY 1</h1>
 <h2>Running app on ios! Success!</h2>
-<img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/df770f8b-9772-4530-abdc-98f74d046755" /> <img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/eba0d8d9-5a07-406d-9ecb-8a74ec4324b8" />
+<img width="419" height="863" alt="image" src="https://github.com/user-attachments/assets/471cef0c-396a-4b19-9df6-7a8dd374dce9" /> <img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/eba0d8d9-5a07-406d-9ecb-8a74ec4324b8" />
 
 <h1>MAP FEATUREEE</h1>
 <img width="384" height="802" alt="image" src="https://github.com/user-attachments/assets/f0161c60-d851-4d6c-bbf4-aaadeafc88ce" /> <img width="393" height="804" alt="image" src="https://github.com/user-attachments/assets/887c8500-4f10-4f41-8728-2828dc9e1c27" />
